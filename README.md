@@ -1,1 +1,1 @@
-# pro-c24-epicarchery-stage-3
+# project-C25-template
